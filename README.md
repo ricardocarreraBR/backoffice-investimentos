@@ -30,14 +30,17 @@ financeiro, projeções) dependiam de planilhas e de scripts soltos, sem trilha 
 
 ## Telas
 
-| | |
-|---|---|
-| ![Dashboard](imagens/dashboard.jpg) **Dashboard de alocação** – PL por segmento e por ativo, com % do PL e % no segmento. | ![Carteira diária](imagens/carteira.jpg) **Carteira diária** – calculada pelo sistema, com a fonte de cada preço e o selo de validação. |
-| ![Rentabilidade](imagens/rentabilidade.jpg) **Rentabilidade** – plano contra CDI e meta atuarial, por período e por segmento. | ![Projeção](imagens/projecao.jpg) **Projeção do ano** – cenários, simulação de movimentações, stress e VaR. |
-| ![Mapa de cotas](imagens/mapa-de-cotas.jpg) **Mapa de cotas** – evolução diária da cota, patrimônio e fluxos. | ![Demonstrativo de caixa](imagens/demonstrativo.jpg) **Demonstrativo de caixa** – extrato da tesouraria montado só com o livro. |
-| ![Boletas](imagens/boletas.jpg) **Boletas do dia** – fluxo em etapas, do e-mail ao envio. | ![Lote de boletas](imagens/lote.jpg) **Lote** – conferência automática e por outra pessoa (segregação de funções). |
+<img width="1200" height="750" alt="rentabilidade" src="https://github.com/user-attachments/assets/e781c6e1-7fe8-4a85-b751-1601d9edf458" />
+<img width="1200" height="750" alt="projecao" src="https://github.com/user-attachments/assets/417fbee5-3fc2-43f6-98dc-ecedfaa621ad" />
+<img width="1200" height="750" alt="mapa-de-cotas" src="https://github.com/user-attachments/assets/746ca27e-cb7e-4292-b238-b461ec3570b2" />
+<img width="1200" height="750" alt="lote" src="https://github.com/user-attachments/assets/3c90c911-ec28-4c94-9ba5-e631f3827c96" />
+<img width="1200" height="750" alt="inicio" src="https://github.com/user-attachments/assets/d2a3c305-98fb-4ffe-b0b9-19cd3c5e2979" />
+<img width="1200" height="750" alt="demonstrativo" src="https://github.com/user-attachments/assets/bddeb2dd-c7ad-4a2d-aa81-0b1ae5995f70" />
+<img width="1200" height="750" alt="dashboard" src="https://github.com/user-attachments/assets/0122b2a0-5391-44aa-b5fb-1af6c9776945" />
+<img width="1200" height="750" alt="carteira" src="https://github.com/user-attachments/assets/7ea75b69-bcf4-494d-81b1-2481aa6e20f6" />
+<img width="1200" height="750" alt="boletas" src="https://github.com/user-attachments/assets/28ac94d7-89fd-40e2-8034-5592f6070929" />
+<img width="1200" height="750" alt="ajuda" src="https://github.com/user-attachments/assets/1a908211-6af4-4fee-ac43-bfefecdb8ab2" />
 
-![Ajuda integrada](imagens/ajuda.jpg)
 **Ajuda integrada:** cada tela tem um painel de ajuda (com um mascote) e o manual completo sai em PDF. Testes automáticos
 obrigam o manual a ser atualizado sempre que uma tela muda.
 
