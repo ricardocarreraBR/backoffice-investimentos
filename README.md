@@ -1,4 +1,4 @@
-## Olá, eu sou o Ricardo Carrera 👋
+## Olá, eu sou o Ricardo Carrera
 
 Trabalho com **investimentos em previdência complementar** e uso programação para resolver os problemas do dia a dia
 da área: automatizar o backoffice, conferir o custodiante e dar à equipe análises que antes dependiam de planilhas.
