@@ -7,7 +7,7 @@ o custodiante, gera as boletas do dia e entrega à equipe dashboards, rentabilid
 > As telas abaixo usam uma **base de demonstração com dados fictícios** (planos, fundos, valores e pessoas inventados).
 > O código-fonte fica em um repositório privado: acesso sob solicitação.
 
-![Página inicial](imagens/inicio.jpg)
+<img width="1200" height="750" alt="inicio" src="https://github.com/user-attachments/assets/d2a3c305-98fb-4ffe-b0b9-19cd3c5e2979" />
 
 ---
 
@@ -34,7 +34,6 @@ financeiro, projeções) dependiam de planilhas e de scripts soltos, sem trilha 
 <img width="1200" height="750" alt="projecao" src="https://github.com/user-attachments/assets/417fbee5-3fc2-43f6-98dc-ecedfaa621ad" />
 <img width="1200" height="750" alt="mapa-de-cotas" src="https://github.com/user-attachments/assets/746ca27e-cb7e-4292-b238-b461ec3570b2" />
 <img width="1200" height="750" alt="lote" src="https://github.com/user-attachments/assets/3c90c911-ec28-4c94-9ba5-e631f3827c96" />
-<img width="1200" height="750" alt="inicio" src="https://github.com/user-attachments/assets/d2a3c305-98fb-4ffe-b0b9-19cd3c5e2979" />
 <img width="1200" height="750" alt="demonstrativo" src="https://github.com/user-attachments/assets/bddeb2dd-c7ad-4a2d-aa81-0b1ae5995f70" />
 <img width="1200" height="750" alt="dashboard" src="https://github.com/user-attachments/assets/0122b2a0-5391-44aa-b5fb-1af6c9776945" />
 <img width="1200" height="750" alt="carteira" src="https://github.com/user-attachments/assets/7ea75b69-bcf4-494d-81b1-2481aa6e20f6" />
